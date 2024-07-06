@@ -1,0 +1,123 @@
+[2024-07-04 03:25:45] 
+[2024-07-04 03:25:45] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-04 03:28:09] [ALERT] testafker detected FastUse (Limit) [BadPackets] [toggles:79/30] [interval:0/145] [vls:1(+1)]
+[2024-07-04 03:28:09] [ALERT] testafker detected FastUse (Limit) [BadPackets] [toggles:129/30] [interval:1/145] [vls:1(+1)]
+[2024-07-04 03:28:09] [ALERT] testafker detected FastUse (Limit) [BadPackets] [toggles:179/30] [interval:0/145] [vls:1(+1)]
+[2024-07-04 03:28:09] [ALERT] testafker detected FastUse (Limit) [BadPackets] [toggles:229/30] [interval:0/145] [vls:1(+1)]
+[2024-07-04 03:28:10] [ALERT] testafker detected FastUse (Limit) [BadPackets] [toggles:279/30] [interval:90/145] [vls:1(+1)]
+[2024-07-04 03:28:10] [ALERT] testafker detected FastUse (Limit) [BadPackets] [toggles:329/30] [interval:0/145] [vls:1(+1)]
+[2024-07-04 03:28:10] [ALERT] testafker detected FastUse (Limit) [BadPackets] [toggles:379/30] [interval:0/145] [vls:1(+1)]
+[2024-07-04 03:28:10] [ALERT] testafker detected FastUse (Limit) [BadPackets] [toggles:429/30] [interval:0/145] [vls:1(+1)]
+[2024-07-04 03:28:10] [ALERT] testafker detected FastUse (Limit) [BadPackets] [toggles:479/30] [interval:0/145] [vls:1(+1)]
+[2024-07-04 03:28:10] [ALERT] testafker detected FastUse (Limit) [BadPackets] [toggles:529/30] [interval:0/145] [vls:1(+1)]
+[2024-07-04 03:28:10] [ALERT] testafker detected FastUse (Limit) [BadPackets] [toggles:579/30] [interval:1/145] [vls:1(+1)]
+[2024-07-04 03:28:10] [ALERT] testafker detected FastUse (Limit) [BadPackets] [toggles:629/30] [interval:0/145] [vls:1(+1)]
+[2024-07-04 03:33:21] 
+[2024-07-04 03:33:21] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-04 03:43:19] 
+[2024-07-04 03:43:19] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-04 03:51:33] 
+[2024-07-04 03:51:33] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-04 03:57:26] 
+[2024-07-04 03:57:26] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-04 04:01:24] 
+[2024-07-04 04:01:24] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-04 04:02:35] 
+[2024-07-04 04:02:35] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-04 04:05:45] 
+[2024-07-04 04:05:45] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-04 04:14:44] 
+[2024-07-04 04:14:44] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-04 04:16:12] 
+[2024-07-04 04:16:12] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-04 04:28:04] 
+[2024-07-04 04:28:04] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-04 05:31:13] 
+[2024-07-04 05:31:13] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-04 05:38:40] 
+[2024-07-04 05:38:40] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-04 05:46:37] 
+[2024-07-04 05:46:37] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-04 06:03:05] 
+[2024-07-04 06:03:05] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-04 06:37:32] 
+[2024-07-04 06:37:32] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-04 06:42:38] [ALERT] testafker detected Nuker (Target) [T1=SAND] [T2=DIRT] [vls:5(+5)]
+[2024-07-04 06:42:38] [ALERT] testafker detected Nuker (Target) [T1=SAND] [T2=DIRT] [vls:5(+5)]
+[2024-07-04 06:43:08] [ALERT] testafker detected Reach [Break] (Block) [in:horizontal] [block:STONE] [distance:13.78294418685988/5.25] [vls:1(+1)]
+[2024-07-04 06:46:42] [ALERT] testafker detected Nuker (Target) [T1=AIR] [T2=GRASS_BLOCK] [vls:5(+5)]
+[2024-07-04 06:46:50] [ALERT] testafker detected Nuker (Target) [T1=AIR] [T2=GRASS_BLOCK] [vls:5(+5)]
+[2024-07-04 08:40:34] 
+[2024-07-04 08:40:34] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-04 09:00:55] 
+[2024-07-04 09:00:55] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-04 09:14:48] 
+[2024-07-04 09:14:48] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-04 09:19:53] 
+[2024-07-04 09:19:53] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-04 09:28:50] 
+[2024-07-04 09:28:50] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-04 09:35:31] 
+[2024-07-04 09:35:31] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-04 13:28:05] 
+[2024-07-04 13:28:05] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-04 13:39:04] 
+[2024-07-04 13:39:04] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-04 13:43:30] [ALERT] testafker detected FastPlace [Blocks] [interval:50/60] [vls:1(+1)]
+[2024-07-04 13:43:30] [ALERT] testafker detected FastPlace [Blocks] [interval:51/60] [vls:1(+1)]
+[2024-07-04 13:43:30] [ALERT] testafker detected FastPlace [Blocks] [interval:52/60] [vls:1(+1)]
+[2024-07-04 13:43:31] [ALERT] testafker detected FastPlace [Blocks] [interval:47/60] [vls:1(+1)]
+[2024-07-04 13:43:31] [ALERT] testafker detected FastPlace [Blocks] [interval:53/60] [vls:1(+1)]
+[2024-07-04 13:43:31] [ALERT] testafker detected FastPlace [Blocks] [interval:52/60] [vls:1(+1)]
+[2024-07-04 13:43:31] [ALERT] testafker detected FastPlace [Blocks] [interval:52/60] [vls:1(+1)]
+[2024-07-04 13:43:31] [ALERT] testafker detected FastPlace [Blocks] [interval:47/60] [vls:1(+1)]
+[2024-07-04 13:43:31] [ALERT] testafker detected FastPlace [Blocks] [interval:53/60] [vls:1(+1)]
+[2024-07-04 13:43:31] [ALERT] testafker detected FastPlace [Blocks] [interval:52/60] [vls:1(+1)]
+[2024-07-04 14:19:40] 
+[2024-07-04 14:19:40] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-04 14:45:25] 
+[2024-07-04 14:45:25] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-04 15:12:57] [ALERT] testafker detected Phase [Block:DEEPSLATE] [loc:373.0, -56.4, 231.5] [vls:1(+1)]
+[2024-07-04 15:12:58] [ALERT] testafker detected Phase [Block:DEEPSLATE] [loc:373.0, -56.3, 231.5] [vls:1(+1)]
+[2024-07-04 15:12:58] [ALERT] testafker detected Phase [Block:DEEPSLATE] [loc:373.0, -56.3, 231.5] [vls:1(+1)]
+[2024-07-04 15:12:58] [ALERT] testafker detected Phase [Block:DEEPSLATE] [loc:373.0, -56.3, 231.5] [vls:1(+1)]
+[2024-07-04 15:12:58] [ALERT] testafker detected Phase [Block:DEEPSLATE] [loc:373.0, -56.3, 231.5] [vls:1(+1)]
+[2024-07-04 15:12:58] [ALERT] testafker detected Phase [Block:DEEPSLATE] [loc:373.0, -56.3, 231.5] [vls:1(+1)]
+[2024-07-04 15:12:58] [ALERT] testafker detected Phase [Block:DEEPSLATE] [loc:373.0, -56.3, 231.5] [vls:1(+1)]
+[2024-07-04 15:12:59] [ALERT] testafker detected Phase [Block:DEEPSLATE] [loc:373.0, -56.3, 231.5] [vls:1(+1)]
+[2024-07-04 15:12:59] [ALERT] testafker detected Phase [Block:DEEPSLATE] [loc:373.0, -56.3, 231.5] [vls:1(+1)]
+[2024-07-04 15:12:59] [ALERT] testafker detected Phase [Block:DEEPSLATE] [loc:373.0, -56.3, 231.5] [vls:1(+1)]
+[2024-07-04 15:12:59] [ALERT] testafker detected Phase [Block:DEEPSLATE] [loc:373.0, -56.3, 231.5] [vls:1(+1)]
+[2024-07-04 15:12:59] [ALERT] testafker detected Phase [Block:DEEPSLATE] [loc:373.0, -56.3, 231.5] [vls:1(+1)]
+[2024-07-04 15:13:05] [ALERT] testafker detected Phase [Block:DEEPSLATE] [loc:373.0, -56.5, 231.5] [vls:1(+1)]
+[2024-07-04 15:13:05] [ALERT] testafker detected Phase [Block:DEEPSLATE] [loc:373.0, -56.5, 231.5] [vls:1(+1)]
+[2024-07-04 15:13:06] [ALERT] testafker detected Phase [Block:DEEPSLATE] [loc:373.0, -56.5, 231.5] [vls:1(+1)]
+[2024-07-04 15:13:10] [ALERT] testafker detected Phase [Block:DEEPSLATE] [loc:373.0, -56.9, 231.5] [vls:1(+1)]
+[2024-07-04 15:13:10] [ALERT] testafker detected Phase [Block:DEEPSLATE] [loc:373.0, -56.9, 231.5] [vls:1(+1)]
+[2024-07-04 15:13:10] [ALERT] testafker detected Phase [Block:DEEPSLATE] [loc:373.0, -56.9, 231.5] [vls:1(+1)]
+[2024-07-04 15:13:11] [ALERT] testafker detected Phase [Block:DEEPSLATE] [loc:373.0, -56.9, 231.5] [vls:1(+1)]
+[2024-07-04 15:13:11] [ALERT] testafker detected Phase [Block:DEEPSLATE] [loc:373.0, -57.0, 231.5] [vls:1(+1)]
+[2024-07-04 15:13:11] [ALERT] testafker detected Phase [Block:DEEPSLATE] [loc:373.0, -57.0, 231.5] [vls:1(+1)]
+[2024-07-04 15:13:11] [ALERT] testafker detected Phase [Block:DEEPSLATE] [loc:373.0, -57.0, 231.5] [vls:1(+1)]
+[2024-07-04 15:13:16] [ALERT] testafker detected Phase [Block:DEEPSLATE] [loc:373.0, -57.0, 231.5] [vls:1(+1)]
+[2024-07-04 15:13:16] [ALERT] testafker detected Phase [Block:DEEPSLATE] [loc:373.0, -57.0, 231.5] [vls:1(+1)]
+[2024-07-04 15:13:16] [ALERT] testafker detected Phase [Block:DEEPSLATE] [loc:373.0, -57.0, 231.5] [vls:1(+1)]
+[2024-07-04 15:13:16] [ALERT] testafker detected Phase [Block:DEEPSLATE] [loc:373.0, -57.0, 231.5] [vls:1(+1)]
+[2024-07-04 15:13:16] [ALERT] testafker detected Phase [Block:DEEPSLATE] [loc:373.0, -57.0, 231.5] [vls:1(+1)]
+[2024-07-04 16:15:54] 
+[2024-07-04 16:15:54] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-04 16:19:43] 
+[2024-07-04 16:19:43] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-04 16:23:03] 
+[2024-07-04 16:23:03] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-04 16:25:05] [ALERT] testafker detected Phase [Block:DEEPSLATE] [loc:373.0, -56.9, 231.5] [vls:1(+1)]
+[2024-07-04 16:25:05] [ALERT] testafker detected Phase [Block:DEEPSLATE] [loc:373.0, -56.9, 231.5] [vls:1(+1)]
+[2024-07-04 16:25:05] [ALERT] testafker detected Phase [Block:DEEPSLATE] [loc:373.0, -56.8, 231.5] [vls:1(+1)]
+[2024-07-04 16:25:05] [ALERT] testafker detected Phase [Block:DEEPSLATE] [loc:373.0, -56.8, 231.5] [vls:1(+1)]
+[2024-07-04 16:25:05] [ALERT] testafker detected Phase [Block:DEEPSLATE] [loc:373.0, -56.8, 231.5] [vls:1(+1)]
+[2024-07-04 16:25:06] [ALERT] testafker detected Phase [Block:DEEPSLATE] [loc:373.0, -56.8, 231.5] [vls:1(+1)]
+[2024-07-04 16:25:06] [ALERT] testafker detected Phase [Block:DEEPSLATE] [loc:373.0, -56.8, 231.5] [vls:1(+1)]
+[2024-07-04 16:55:35] 
+[2024-07-04 16:55:35] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-04 17:04:15] 
+[2024-07-04 17:04:15] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9

@@ -1,0 +1,73 @@
+[2024-07-05 04:30:35] 
+[2024-07-05 04:30:35] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-05 07:18:13] 
+[2024-07-05 07:18:13] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-05 07:19:22] 
+[2024-07-05 07:19:22] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-05 07:22:48] 
+[2024-07-05 07:22:48] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-05 07:35:18] 
+[2024-07-05 07:35:18] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-05 07:56:27] 
+[2024-07-05 07:56:27] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-05 09:56:59] 
+[2024-07-05 09:56:59] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-05 09:58:33] [ALERT] testafkerHard detected Nuker (Target) [T1=SAND] [T2=SAND] [vls:5(+5)]
+[2024-07-05 09:58:37] [ALERT] testafkerHard detected Nuker (Target) [T1=SAND] [T2=SAND] [vls:5(+5)]
+[2024-07-05 09:58:52] [ALERT] testafkerHard detected Nuker (Target) [T1=SAND] [T2=SAND] [vls:5(+5)]
+[2024-07-05 09:58:54] [ALERT] testafkerHard detected Nuker (Target) [T1=SAND] [T2=SAND] [vls:5(+5)]
+[2024-07-05 10:04:36] [ALERT] testafkerHard detected Reach (Hit) [in:horizontal] [distance:4.307194206813099/4.1] [ping:-1] [vls:1(+1)]
+[2024-07-05 10:28:44] 
+[2024-07-05 10:28:44] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-05 10:30:38] 
+[2024-07-05 10:30:38] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-05 10:39:16] 
+[2024-07-05 10:39:16] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-05 12:08:55] 
+[2024-07-05 12:08:55] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-05 14:29:41] 
+[2024-07-05 14:29:41] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-05 15:55:42] 
+[2024-07-05 15:55:42] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-05 16:20:49] 
+[2024-07-05 16:20:49] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-05 16:30:22] 
+[2024-07-05 16:30:22] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-05 16:37:30] 
+[2024-07-05 16:37:30] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-05 16:39:28] 
+[2024-07-05 16:39:28] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-05 16:44:32] 
+[2024-07-05 16:44:32] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-05 16:45:40] 
+[2024-07-05 16:45:40] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-05 16:54:06] 
+[2024-07-05 16:54:06] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-05 16:58:35] 
+[2024-07-05 16:58:35] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-05 17:01:15] 
+[2024-07-05 17:01:15] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-05 17:02:08] [ALERT] Dinnerbone detected Phase [Block:DIRT_PATH] [loc:132.2, 70.9, 345.5] [vls:1(+1)]
+[2024-07-05 17:02:08] [ALERT] Dinnerbone detected Phase [Block:DIRT_PATH] [loc:132.3, 70.9, 345.4] [vls:1(+1)]
+[2024-07-05 17:02:08] [ALERT] Dinnerbone detected Phase [Block:DIRT_PATH] [loc:132.4, 70.9, 345.4] [vls:1(+1)]
+[2024-07-05 17:02:08] [ALERT] Dinnerbone detected Phase [Block:DIRT_PATH] [loc:132.4, 70.9, 345.3] [vls:1(+1)]
+[2024-07-05 17:02:08] [ALERT] Dinnerbone detected Phase [Block:DIRT_PATH] [loc:132.4, 70.9, 345.3] [vls:1(+1)]
+[2024-07-05 17:02:09] [ALERT] Dinnerbone detected Phase [Block:DIRT_PATH] [loc:132.4, 70.9, 345.3] [vls:1(+1)]
+[2024-07-05 17:02:09] [ALERT] Dinnerbone detected Phase [Block:DIRT_PATH] [loc:132.4, 70.9, 345.3] [vls:1(+1)]
+[2024-07-05 17:02:09] [ALERT] Dinnerbone detected Phase [Block:DIRT_PATH] [loc:132.4, 70.9, 345.3] [vls:1(+1)]
+[2024-07-05 17:02:09] [ALERT] Dinnerbone detected Phase [Block:DIRT_PATH] [loc:132.4, 70.9, 345.3] [vls:1(+1)]
+[2024-07-05 17:02:09] [ALERT] Dinnerbone detected Phase [Block:DIRT_PATH] [loc:132.4, 70.9, 345.5] [vls:1(+1)]
+[2024-07-05 17:02:09] [ALERT] Dinnerbone detected Phase [Block:DIRT_PATH] [loc:132.4, 70.9, 345.6] [vls:1(+1)]
+[2024-07-05 17:02:10] [ALERT] Dinnerbone detected Phase [Block:DIRT_PATH] [loc:132.4, 70.9, 345.7] [vls:1(+1)]
+[2024-07-05 17:04:43] 
+[2024-07-05 17:04:43] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-05 17:08:35] 
+[2024-07-05 17:08:35] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-05 17:12:46] 
+[2024-07-05 17:12:46] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-05 17:17:58] 
+[2024-07-05 17:17:58] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-05 17:32:51] 
+[2024-07-05 17:32:51] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9
+[2024-07-05 17:52:19] 
+[2024-07-05 17:52:19] [STARTUP] Starting server with 1.20.6-2233-0d6766e (MC: 1.20.6) [1.20.6-R0.1-SNAPSHOT] in FoxAddition v1.1.9

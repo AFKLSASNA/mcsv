@@ -1,0 +1,24 @@
+# This is the server motd.
+Server-MOTD:
+  Line-1: '&b&l&m-----------[&r&6&l 194.ip.ply.gg:13653 &b&l&m]-----------'
+  Line-2: '&e&lCảnh báo &fKo thể hack và có mất đồ!'
+
+# The motd of the player when they join in.
+JoinGame-MOTD:
+  Enabled: true
+  # Check forum for placeholders.
+  # Supported for PlaceholderAPI placeholders.
+  Messages:
+  - '&eMọi người chơi vui vẻ nha :)'
+
+# Server icon.
+Custom-Server-Icon:
+  # Set to true will load image from motd folder.
+  Enabled: true
+  # Make sure it's 64 x 64 pixels with png format.
+  Image: server-icon.png
+
+# The maximum players of the server.
+Server-Maximum-Players:
+  Modify: true
+  Maximum-Players: 99

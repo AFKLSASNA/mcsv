@@ -1,0 +1,41 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "testafker",
+      "uniqueId": "0765c69c-f284-3f79-9205-46b2fa042963"
+    },
+    "time": 1720104580069,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/qTefqDNUNm"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "testafker",
+      "uniqueId": "0765c69c-f284-3f79-9205-46b2fa042963"
+    },
+    "time": 1720104571954,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/LkpN3hkKja"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "testafker",
+      "uniqueId": "0765c69c-f284-3f79-9205-46b2fa042963"
+    },
+    "time": 1720104566171,
+    "type": "Heap dump",
+    "data": {
+      "type": "file",
+      "value": "plugins/spark/heap-2024-07-04_14.49.21.hprof"
+    }
+  }
+]
