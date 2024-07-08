@@ -116,7 +116,7 @@ scoreboard:
         - "* &eOnline&7: %online%"
         - "* &bHealth&7: %health%&8"
         - "* &bMem&7: %memory-used%Mb/%memory-max%Mb"
-        - "* &bTPS&7: %tps%&8ms"
+        - "* &bTPS&7: %tps%&8"
         - "* &bPing&7: %ping%&8ms"
         - "* &bWorld&7: %world%"
 
@@ -131,7 +131,7 @@ scoreboard:
         - "* &eOnline&7: %online%"
         - "* &bHealth&7: %health%&8"
         - "* &bMem&7: %memory-used%Mb/%memory-max%Mb"
-        - "* &bTPS&7: %tps%&8ms"
+        - "* &bTPS&7: %tps%&8"
         - "* &bPing&7: %ping%&8ms"
         - "* &bWorld&7: %world%"
 
